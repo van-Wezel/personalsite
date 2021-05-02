@@ -7,9 +7,11 @@
 
 ### Teaching
 
-At Radboud university in Nijmegen:
+#### At Radboud university in Nijmegen:
 
-##### Bachelor courses
+Some information possible.
+
+### Bachelor courses
 These courses are part of the curriculum for the Bachelor Biology and Medical Biology. They are aimed at students who are interested in Neurobiology and those who wish to enroll in the Master's programme of Neurobiology.
 
 
@@ -20,7 +22,7 @@ These courses are part of the curriculum for the Bachelor Biology and Medical Bi
 | Neurobiophysics | 3rd | 6 |
 
 
-##### Master courses
+### Master courses
 These courses are part of the Master's programme of Neurobiology.
 
 
@@ -30,11 +32,10 @@ These courses are part of the Master's programme of Neurobiology.
 | Neuroscience methods | 3 |
 | Current advances in neuroscience technology | 3 |
 
----
 
-At university of Twente in Enschede:
+#### At university of Twente in Enschede:
 
-##### Bachelor courses
+### Bachelor courses
 
 | Course name | Year | EC |
 | --- | ---| --- |
