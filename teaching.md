@@ -13,7 +13,7 @@ At Radboud university in Nijmegen:
 These courses are part of the curriculum for the Bachelor Biology and Medical Biology. They are aimed at students who are interested in Neurobiology and those who wish to enroll in the Master's programme of Neurobiology.
 
 
-| course name | year | EC |
+| Course name | Year | EC |
 | --- | ---| --- |
 | Brain and Behaviour | 2nd | 6 |
 | Neural basis of cognition and perception | 2nd | 6 |
@@ -24,7 +24,7 @@ These courses are part of the curriculum for the Bachelor Biology and Medical Bi
 These courses are part of the Master's programme of Neurobiology.
 
 
-| course name | EC |
+| Course name | EC |
 | --- | ---|
 | Systems Neuroscience | 3 |
 | Neuroscience methods | 3 |
@@ -35,7 +35,7 @@ At university of Twente in Enschede:
 
 ##### Bachelor courses
 
-| course name | year | EC |
+| Course name | Year | EC |
 | --- | ---| --- |
 | Neurophysiology 1 | 2nd | 3 |
 
