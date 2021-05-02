@@ -30,6 +30,7 @@ These courses are part of the Master's programme of Neurobiology.
 | Neuroscience methods | 3 |
 | Current advances in neuroscience technology | 3 |
 
+---
 
 At university of Twente in Enschede:
 
