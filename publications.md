@@ -1,3 +1,10 @@
+
+
+| [homepage](https://van-wezel.github.io/personalsite/) | [about](https://van-wezel.github.io/personalsite/about.html) | [contact information](https://van-wezel.github.io/personalsite/contact.html) | [teaching](https://van-wezel.github.io/personalsite/teaching.html) | [internships](https://van-wezel.github.io/personalsite/internships.html) | [publications](https://van-wezel.github.io/personalsite/publications.html) |
+| ------ | ------ | ------ | ------ | ------ | ------ | 
+|   |
+
+
 ## publications
 
 You can find a list with all publications [here](https://www.mbfys.ru.nl/staff/vanwezel/lab/Publications.html)
