@@ -7,6 +7,7 @@
 ## About Richard van Wezel
 
 
+<img align='left' src="https://van-wezel.github.io/personalsite/Sunset.jpg" width="200" height="280" />
 
-
+Some nice information for a personal touch.
 
