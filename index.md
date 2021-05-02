@@ -1,5 +1,5 @@
 
-| [about](https://van-wezel.github.io/personalsite/about.html) | [contact information](https://van-wezel.github.io/personalsite/contact.html) | [teaching](https://van-wezel.github.io/personalsite/teaching.html) | [projects](https://van-wezel.github.io/personalsite/projects.html) | [publications](https://van-wezel.github.io/personalsite/publications.html) |
+| [about](https://van-wezel.github.io/personalsite/about.html) | [contact information](https://van-wezel.github.io/personalsite/contact.html) | [teaching](https://van-wezel.github.io/personalsite/teaching.html) | [internships](https://van-wezel.github.io/personalsite/internships.html) | [publications](https://van-wezel.github.io/personalsite/publications.html) |
 | ------ | ------ | ------ | ------ |----- | 
 |     |
 
