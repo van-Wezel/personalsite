@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome
 
 | [about](https://van-wezel.github.io/personalsite/about.html) | [contact information](https://van-wezel.github.io/personalsite/contact.html) | [projects](https://van-wezel.github.io/personalsite/projects.html) | [publications](https://van-wezel.github.io/personalsite/publications.html) |
 | ------ | ------ | ------ | ------ |
 
+| header 1 | header 2 | header 3 | header 4 |
+| -------- | -------- | -------- | -------- |
 
 
 You can use the [editor on GitHub](https://github.com/van-Wezel/personalsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
