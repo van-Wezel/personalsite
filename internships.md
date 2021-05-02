@@ -1,4 +1,4 @@
-## projects
+## Internships
 
 Options for Bachelor- and Master internships
 
