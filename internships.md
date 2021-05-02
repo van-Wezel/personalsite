@@ -12,11 +12,11 @@ Options for Bachelor- and Master internships
 
 Also have a look at previous [publications](https://van-wezel.github.io/personalsite/publications.html)
 
-###### For Bachelor students:
+### For Bachelor students:
 - **Title of first internship** with a short summary/explanation
 - **Title of second internship** with again a short summary/explanation
 
 
-###### For Master students:
+### For Master students:
 - **Title of first internship** with a short summary/explanation
 - **Title of second internship** with again a short summary/explanation
