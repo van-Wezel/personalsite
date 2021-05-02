@@ -1,7 +1,7 @@
 
 
 --------------------------------------
-[**Homepage**](https://van-wezel.github.io/personalsite/) - [**About**](https://van-wezel.github.io/personalsite/about.html) - [**Contact information**](https://van-wezel.github.io/personalsite/contact.html) - [**Teaching**](https://van-wezel.github.io/personalsite/teaching.html) - [**Internships**](https://van-wezel.github.io/personalsite/internships.html) - [**Publications**](https://van-wezel.github.io/personalsite/publications.html) - [**Members**](https://van-wezel.github.io/personalsite/Members.html) 
+[**Homepage**](https://van-wezel.github.io/personalsite/) - [**About**](https://van-wezel.github.io/personalsite/about.html) - [**Contact information**](https://van-wezel.github.io/personalsite/contact.html) - [**Teaching**](https://van-wezel.github.io/personalsite/teaching.html) - [**Internships**](https://van-wezel.github.io/personalsite/internships.html) - [**Publications**](https://van-wezel.github.io/personalsite/publications.html) - [**Members**](https://van-wezel.github.io/personalsite/members.html) 
 
 -------------------------------------------
 
@@ -9,8 +9,8 @@
 ## Welcome
 To the homepage of the personal site of prof. dr. Richard van Wezel. He is active at [Radboud university](https://www.ru.nl/english/people/wezel-r-van/) and [University of Twente](https://people.utwente.nl/r.j.a.vanwezel) as both researcher and lecturer.
 
-![image](https://van-wezel.github.io/personalsite/Sunset.jpg)
 
-<img src="https://van-wezel.github.io/personalsite/Sunset.jpg" width="200" height="200" />
+
+<img src="https://van-wezel.github.io/personalsite/Sunset.jpg" width="200" height="400" />
 
 In the lab of Richard van Wezel we study how activity of groups of neurons results into behaviour. We investigate how visual perception can be explained in terms of electrical activity in networks of communicating neurons. Our goal is to study these processes from the level of single neurons to large brain networks. To cover these levels of neural processing we rely on neurophysiological methods like neural recordings, imaging and behavioural measurements. Findings are translated into clinical applications with a focus on Parkinson’s Disease and the application of smart glasses.
