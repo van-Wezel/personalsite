@@ -35,6 +35,8 @@ These courses are part of the Master's programme of Neurobiology.
 
 #### At university of Twente in Enschede:
 
+Again some information possible, to distinguish between the two universities.
+
 ### Bachelor courses
 
 | Course name | Year | EC |
