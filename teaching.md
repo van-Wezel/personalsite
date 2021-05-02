@@ -8,6 +8,7 @@ At Radboud university in Nijmegen:
 | Brain and Behaviour | 2nd | 6 |
 | Neural basis of cognition and perception | 2nd | 6 |
 | Neurobiophysics | 3rd | 6 |
+|   |
 
 ##### Master courses
 | course name | EC |
@@ -15,7 +16,7 @@ At Radboud university in Nijmegen:
 | Systems Neuroscience | 3 |
 | Neuroscience methods | 3 |
 | Current advances in neuroscience technology | 3 |
-
+|   |
 
 At university of Twente in Enschede:
 
@@ -23,3 +24,4 @@ At university of Twente in Enschede:
 | course name | year | EC |
 | --- | ---| --- |
 | Neurophysiology 1 | 2nd | 3 |
+|   |
