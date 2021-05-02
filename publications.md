@@ -6,11 +6,11 @@
 -------------------------------------------
 
 
-## publications
+# Publications
 
 You can find a list with all publications [here](https://www.mbfys.ru.nl/staff/vanwezel/lab/Publications.html)
 
-#### key publications
+### key publications
 
 1. Arani, E., van Ee, R. and van Wezel, R.J.A. (2018). Changes in low-level neural properties underlie age-dependent visual decision making. Scientific Reports, 8, 10789. PDF
 2. Zhao, Y., Nonnekes, J., Storcken, E.J.M., Janssen, S., van Wegen, E.E.H., Bloem, B.R., Dorresteijn, L.C.A., van Vugt, J.P.P., Heida, T., van Wezel, R.J.A. (2016) Feasibility of external rythmic cueing with the Google Glass for improving gait in people with Parkinson’s Disease. J. Neurology, 263, 6, 1156-1165. [link]
