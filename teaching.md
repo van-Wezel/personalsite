@@ -3,6 +3,7 @@
 At Radboud university in Nijmegen:
 
 ##### Bachelor courses
+
 | course name | year | EC |
 | --- | ---| --- |
 | Brain and Behaviour | 2nd | 6 |
@@ -11,6 +12,7 @@ At Radboud university in Nijmegen:
 |   |
 
 ##### Master courses
+
 | course name | EC |
 | --- | ---|
 | Systems Neuroscience | 3 |
@@ -21,6 +23,7 @@ At Radboud university in Nijmegen:
 At university of Twente in Enschede:
 
 ##### Bachelor courses
+
 | course name | year | EC |
 | --- | ---| --- |
 | Neurophysiology 1 | 2nd | 3 |
