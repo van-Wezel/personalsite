@@ -8,7 +8,7 @@
 
 ## Internships
 
-Options for Bachelor- and Master internships
+There are several options for both Bachelor- and Master internships at the research group of Richard van Wezel. At Radboud University he is head of the research group of visual neuroscience, at the Donders Institute for Brain, Cognition, and Behaviour. The main research theme is "Action, Perception, and Control".
 
 Also have a look at previous [publications](https://van-wezel.github.io/personalsite/publications.html)
 
