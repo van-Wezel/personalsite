@@ -8,7 +8,7 @@
 
 ## contact information
 
-
+You can contact Richard van Wezel via Radboud university in Nijmegen, or via the University of Twente in Enschede. Please choose the appropriate location for your purposes.
 
 **Professor in Visual Neuroscience**  
 Biophysics, Faculty of Science  
