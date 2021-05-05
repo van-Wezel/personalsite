@@ -7,6 +7,8 @@
 
 ### Teaching
 
+Richard van Wezel is a lecturer at both Radboud University and the University of Twente. He lectures and coordinates courses in the Biology Bachelors programmes and Neurobiology Masters programmes. Below you can find the courses currently in the curriculum.
+
 #### At Radboud university in Nijmegen:
 
 Some information possible, some introduction to the lecturing parts.
