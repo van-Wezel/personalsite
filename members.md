@@ -7,42 +7,50 @@
 
 
 ## Current lab members
+###### (Alphabatical order)
 
 Richard van Wezel, PI  
-Naoki Kogo, Postdoc  
-Anna Silva de Lima, Postdoc  
-Hendrik Buimer Junior, researcher  
-Helena Cockx, PHD  
-Laurens Kirkels, PHD  
-Ahmed H. Gardoh, PHD  
-Elahe Arani, PHD  
-Wenjun Zhang, PHD  
-Sabine Janssen, PHD  
-Ying Wang, PHD  
-Arjen Mol, PHD  
-Loes Ottink, PHD  
+[Naoki Kogo](https://nl.linkedin.com/in/naoki-kogo-04238953), Postdoc  
+[Laurens Kirkels](https://nl.linkedin.com/in/laurenskirkels), Postdoc  
+*[Bas van Gorp](https://nl.linkedin.com/in/basvangorp), PHD  
+*[Elahe Arani](https://www.researchgate.net/profile/Elahe-Arani), PHD  
+[Helena Cockx], PHD  
+[Jaap de Ruyter van Steveninck], PHD  
+[Janne Heijs], PHD  
+[Juan Delgado Tefan], PHD  
+[Loes Ottink], PHD  
+[Marjolein Klop], PHD  
+
+
 
 
 ## Former lab members
-
-Murielle Ferraye  
-Yagmur Gucluturk  
+###### (Alphabatical order)
 Abdellatif Nemri  
-Yan Zhao  
-Jorik Nonnekes  
+Ahmed H. Gardoh
+Andre Noest  
+Anna Oleksiak  
+Anna Silva de Lima
+Arjen Mol
+Benjamin Bolte  
+Bettina Schwab  
+Carmen Rietdijk  
+Chris Klink  
+Erik Aarnoutse  
+Hendrik Buimer Junior
+Ineke van der Ham  
+Jaak Beintema  
+Jaboc Duijnhouwer  
 Janos Perge  
 Jeannette Lorteije  
-Benjamin Bolte  
-Jaboc Duijnhouwer  
-Paul Wieringa  
-Chris Klink  
-Roger Bours  
-Anna Oleksiak  
-Jaak Beintema  
-Ineke van der Ham  
-Andre Noest  
+Jorik Nonnekes  
 Mathijs Raemaekers  
-Erik Aarnoutse  
-Carmen Rietdijk  
-Bettina Schwab  
+Murielle Ferraye  
+Paul Wieringa  
+Roger Bours  
+Sabine Janssen 
+Wenjun Zhang
+Yagmur Gucluturk  
+Yan Zhao  
+Ying Wang
 
