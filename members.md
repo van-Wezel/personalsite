@@ -9,39 +9,39 @@
 ## Current lab members
 ###### (Alphabatical order)
 
-Richard van Wezel, PI  
+[Richard van Wezel](https://nl.linkedin.com/in/richard-van-wezel-b7bb71b0?trk=public_profile_browsemap_profile-result-card_result-card_full-click), PI  
 [Naoki Kogo](https://nl.linkedin.com/in/naoki-kogo-04238953), Postdoc  
 [Laurens Kirkels](https://nl.linkedin.com/in/laurenskirkels), Postdoc  
 *[Bas van Gorp](https://nl.linkedin.com/in/basvangorp), PHD  
 *[Elahe Arani](https://www.researchgate.net/profile/Elahe-Arani), PHD  
-[Helena Cockx], PHD  
-[Jaap de Ruyter van Steveninck], PHD  
-[Janne Heijs], PHD  
-[Juan Delgado Tefan], PHD  
-[Loes Ottink], PHD  
-[Marjolein Klop], PHD  
+*[Helena Cockx](https://www.ru.nl/english/people/cockx-h/), PHD  
+[Jaap de Ruyter van Steveninck](https://nl.linkedin.com/in/jaap-de-ruyter-van-steveninck-713209142), PHD  
+[Janne Heijs](https://nl.linkedin.com/in/janneheijs), PHD  
+*Juan Delgado Tefan, PHD  
+*[Loes Ottink](https://www.ru.nl/english/people/ottink-l/), PHD  
+[Marjolein Klop](https://nl.linkedin.com/in/marjolein-klop), PHD  
 
 
 
 
 ## Former lab members
 ###### (Alphabatical order)
-Abdellatif Nemri  
-Ahmed H. Gardoh
-Andre Noest  
-Anna Oleksiak  
-Anna Silva de Lima
-Arjen Mol
-Benjamin Bolte  
-Bettina Schwab  
-Carmen Rietdijk  
-Chris Klink  
-Erik Aarnoutse  
-Hendrik Buimer Junior
-Ineke van der Ham  
-Jaak Beintema  
-Jaboc Duijnhouwer  
-Janos Perge  
+*[Abdellatif Nemri](https://dl.acm.org/profile/99659213758)  
+*[Ahmed H. Gardoh](https://www.researchgate.net/profile/Ahmed-Gardoh)
+[Andre Noest](https://nl.linkedin.com/in/andre-j-noest-a2776141)  
+*Anna Oleksiak  
+[Ana Silva de Lima](https://nl.linkedin.com/in/ana-ligia-silva-de-lima-73138988)
+[Arjen Mol](https://nl.linkedin.com/in/arjenmol)
+*[Benjamin Bolte](https://www.researchgate.net/scientific-contributions/Benjamin-Bolte-2129731731)  
+*[Bettina Schwab](http://bettina-schwab.net)  
+*[Carmen Rietdijk](https://www.researchgate.net/scientific-contributions/Carmen-D-Rietdijk-2100865380)  
+[Chris Klink](https://nl.linkedin.com/in/chrisklink)  
+[Erik Aarnoutse](https://nl.linkedin.com/in/erik-aarnoutse-689a9196)  
+[Hendrik Buimer Junior](https://nl.linkedin.com/in/hendrikbuimer/nl)
+[Ineke van der Ham](https://nl.linkedin.com/in/ineke-van-der-ham-4a1b375) 
+*Jaak Beintema  
+[Jaboc Duijnhouwer](https://www.linkedin.com/in/jacob-d)  
+[János Perge](https://www.linkedin.com/in/jános-a-perge-ph-d-90b0207)  
 Jeannette Lorteije  
 Jorik Nonnekes  
 Mathijs Raemaekers  
