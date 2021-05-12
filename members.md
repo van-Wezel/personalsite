@@ -37,8 +37,8 @@
 *[Carmen Rietdijk](https://www.researchgate.net/scientific-contributions/Carmen-D-Rietdijk-2100865380)  
 [Chris Klink](https://nl.linkedin.com/in/chrisklink)  
 [Erik Aarnoutse](https://nl.linkedin.com/in/erik-aarnoutse-689a9196)  
-[Hendrik Buimer Junior](https://nl.linkedin.com/in/hendrikbuimer/nl)
-[Ineke van der Ham](https://nl.linkedin.com/in/ineke-van-der-ham-4a1b375) 
+[Hendrik Buimer Junior](https://nl.linkedin.com/in/hendrikbuimer/nl)  
+[Ineke van der Ham](https://nl.linkedin.com/in/ineke-van-der-ham-4a1b375)  
 *Jaak Beintema  
 [Jaboc Duijnhouwer](https://www.linkedin.com/in/jacob-d)  
 [János Perge](https://www.linkedin.com/in/jános-a-perge-ph-d-90b0207)  
@@ -48,9 +48,9 @@ Mathijs Raemaekers
 Murielle Ferraye  
 Paul Wieringa  
 Roger Bours  
-Sabine Janssen 
-Wenjun Zhang
+Sabine Janssen  
+Wenjun Zhang  
 Yagmur Gucluturk  
 Yan Zhao  
-Ying Wang
+Ying Wang  
 
