@@ -228,20 +228,20 @@ van Wezel, R.J.A., and Britten K.H. (2002) Multiple uses of visual motion. The c
 
 Verstraten, F.A.J., Hooge, I.T.C., Culham, J., and van Wezel, R.J.A. (2001). Systematic eye movements do not account for the perception of motion during attentive tracking. Vision Research, 41, 3505-3511. [link][pdf]
 
-Britten, K.H., and van Wezel, R.J.A. (1998). Electrical microstimulation of extrastriate area MST biases heading perception. Nature Neuroscience, 1, 59-63. [link][pdf]
-Commentary on our paper by A. Grunewald (1998). Stimulating thoughts about heading perception. Trends in Cognitive Sciences, 2, 7, 239-239. [link][pdf]
+- Britten, K., & van Wezel, R. (1998). Electrical microstimulation of cortical area MST biases heading perception in monkeys. Nature Neuroscience, 1(1), 59-63. doi: 10.1038/259 [link](https://www.nature.com/articles/nn0598_59) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1998%20Britten_van_Wezel.pdf)
+  - Commentary on our paper by A. Grunewald (1998). Stimulating thoughts about heading perception. Trends in Cognitive Sciences, 2, 7, 239-239. [link](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(98)80019-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1364661398800193%3Fshowall%3Dtrue) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1998_Grunewald.pdf)
 
-Gaudiano, P., Przybyszewski, A.W., van Wezel, R.J.A., and van de Grind, W.A. (1998). Spatial asymmetry in retinal ganglion cell responses. Biological Cybernetics, 79, 151-159. [link][pdf]
+- Gaudiano, P., Przybyszewski, A., van Wezel, R., & van de Grind, W. (1998). Spatial asymmetries in cat retinal ganglion cell responses. Biological Cybernetics, 79(2), 151-159. doi: 10.1007/s004220050467 [link](https://pubmed.ncbi.nlm.nih.gov/9791935/) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1998_Gaudiano.pdf)
 
-van Wezel, R.J.A., Fredericksen, R.E., Verstraten, F.A.J., Lankheet, M.J.M., and van de Grind, W.A. (1997). Responses of complex cells in area 17 to apparent motion of random pixel arrays. Vision Research, 37, 839-852. [link][pdf]
+- van Wezel, R., Lankeet, M., Fredericksen, R., Verstraten, F., & van de Grind, W. (1997). Responses of Complex Cells in Cat Area 17 to Apparent Motion of Random Pixel Arrays. Vision Research, 37(7), 839-852. doi: 10.1016/s0042-6989(96)00248-9 [link](https://www.sciencedirect.com/science/article/pii/S0042698996002489?via%3Dihub) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1997_van_Wezel.pdf)
 
-van de Grind, W.A., Lankheet, M.J.M., van Wezel, R.J.A., Rowe, M.H., and Hulleman, J. (1996). Gain control and hyperpolarisation level in horizontal cells as a function of light and dark adaptation. Vision Research, 36, 3969-3985 . [link][pdf]
+- van de Grind, W., Lankheet, M., van Wezel, R., Rowe, M., & Hulleman, J. (1996). Gain control and hyperpolarization level in cat horizontal cells as a function of light and dark adaptation. Vision Research, 36(24), 3969-3985. doi: 10.1016/s0042-6989(96)00150-2 [link](https://www.sciencedirect.com/science/article/pii/S0042698996001502?via%3Dihub) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1996_van_de_Grind.pdf)
 
-Lankheet, M.J.M., Rowe, M.H., van Wezel, R.J.A., and van de Grind, W.A. (1996). Spatial and temporal properties of horizontal cells after prolonged dark adaptation. Vision Research, 36, 3955-3967. [link][pdf]
+- Lankheet, M., Rowe, M., van Wezel, R., & van de Grind, W. (1996). Spatial and temporal properties of cat horizontal cells after prolonged dark adaptation. Vision Research, 36(24), 3955-3967. doi: 10.1016/s0042-6989(96)00133-2 [link](https://www.sciencedirect.com/science/article/pii/S0042698996001332?via%3Dihub) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1996a_Lankheet.pdf)
 
-Verstraten, F.A.J., Fredericksen, R.E., van Wezel, R.J.A., and van de Grind, W.A. (1996). Directional motion sensitivity under transparent motion conditions. Vision Research, 36, 2333-2336. DEMO [link][pdf]
+- Verstraten, F.A.J., Fredericksen, R.E., van Wezel, R.J.A., and van de Grind, W.A. (1996). Directional motion sensitivity under transparent motion conditions. Vision Research, 36, 2333-2336 [link](https://www.sciencedirect.com/science/article/pii/0042698995002979?via%3Dihub) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1996b_Verstraten.pdf)
 
-van Wezel, R.J.A., Lankheet, M.J.M., Verstraten, F.A.J., Marée, A.F.M., and van de Grind, W.A. (1996). Responses of complex cells in area 17 to bi-vectorial transparent motion. Vision Research, 36, 2805-2813. DEMO [link][pdf]
+- van Wezel, R., Lankeet, M., Verstraten, F., Marée, A., & van de Grind, W. (1996). Responses of Complex Cells in Area 17 of the Cat to Bi-vectorial Transparent Motion. Vision Research, 36(18), 2805-2813. doi: 10.1016/0042-6989(95)00324-x [link](https://www.sciencedirect.com/science/article/pii/S0042698903004310) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1997_van_Wezel.pdf)
 
 - Lankheet, M., Rowe, M., van Wezel, R., & van de Grind, W. (1996). Spatial and temporal properties of cat horizontal cells after prolonged dark adaptation. Vision Research, 36(24), 3955-3967. doi: 10.1016/s0042-6989(96)00133-2 [link](https://www.sciencedirect.com/science/article/pii/S0042698996001332?via%3Dihub) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1996b_Lankheet.pdf)
 
