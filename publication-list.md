@@ -6,6 +6,8 @@
 
 # Publications of Richard Van Wezel
 
+(Ordered on publication date (newest on the top), still has to be numbered)
+
 Kogo, N., Kern, F., Nowotny, Th., van Ee, R., van Wezel, R.J.A., Aihara, T. (2021). Dynamics of a mutual inhibition between pyramidal neurons compared to human perceptual competition. Journal of Neuroscience, 41 (6), 1251-1264.
 
 Mol, A., Blom, M.E.C., van den Bosch, D.J., van Wezel, R.J.A., Meskers, C.G.M., Maier, A.B. (2021). Orthostatic blood pressure recovery measured using a sphygmomanometer is not associatted with physical performance or number of falls in geriatric outpatients. Gerontology, In Press. 
@@ -241,16 +243,16 @@ Verstraten, F.A.J., Fredericksen, R.E., van Wezel, R.J.A., and van de Grind, W.A
 
 van Wezel, R.J.A., Lankheet, M.J.M., Verstraten, F.A.J., Marée, A.F.M., and van de Grind, W.A. (1996). Responses of complex cells in area 17 to bi-vectorial transparent motion. Vision Research, 36, 2805-2813. DEMO [link][pdf]
 
-Lankheet, M.J.M., Rowe, M.H., van Wezel, R.J.A., and van de Grind, W.A. (1996). Horizontal cell sensitivity during prolonged dark adaptation. Visual Neuroscience, 13, 885-896. [link][pdf]
+- Lankheet, M., Rowe, M., van Wezel, R., & van de Grind, W. (1996). Spatial and temporal properties of cat horizontal cells after prolonged dark adaptation. Vision Research, 36(24), 3955-3967. doi: 10.1016/s0042-6989(96)00133-2 [link](https://www.sciencedirect.com/science/article/pii/S0042698996001332?via%3Dihub) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1996b_Lankheet.pdf)
 
-Verstraten, F.A.J., Fredericksen, R.E., van Wezel, R.J.A., Lankheet, M.J.M., and van de Grind, W.A. (1996). Recovery from adaptation for dynamic and static motion aftereffects: Evidence for two mechanisms. Vision Research, 36, 421-424. [link][pdf]
+- Verstraten, F., Fredericksen, R., Van Wezel, R., Lankheet, M., & Van De Grind, W. (1996). Recovery from adaptation for dynamic and static motion aftereffects: Evidence for two mechanisms. Vision Research, 36(3), 421-424. doi: 10.1016/0042-6989(95)00111-5 [link](https://www.sciencedirect.com/science/article/pii/0042698995001115?via%3Dihub) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1996a_Verstraten.pdf)
 
-van Wezel, R.J.A., Verstraten F.A.J., Fredericksen, R.E., and van de Grind W.A. (1994). Spatial integration in coherent motion detection and in the movement aftereffect. Perception, 23, 1189-1195. DEMO [link][pdf]
+- van Wezel, R., Verstraten, F., Fredericksen, R., & van de Grind, W. (1994). Spatial Integration in Coherent Motion Detection and in the Movement Aftereffect. Perception, 23(10), 1189-1195. doi: 10.1068/p231189  [link](https://journals.sagepub.com/doi/10.1068/p231189) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1994_van_Wezel.pdf)
 
-Lankheet, M.J.M., van Wezel, R.J.A., Prickaerts, J.H.H.J., and van de Grind, W.A. (1993). The dynamics of light adaptation in horizontal cell responses. Vision Research, 33, 1153-1171. [link][pdf]
+- Lankheet, M., Van Wezel, R., Prickaerts, J., & Van De Grind, W. (1993). The dynamics of light adaptation in cat horizontal cell responses. Vision Research, 33(9), 1153-1171. doi: 10.1016/0042-6989(93)90205-b [link](https://www.sciencedirect.com/science/article/abs/pii/004269899390205B?via%3Dihub) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1993_Lankheet.pdf)
 
-Lankheet, M.J.M., van Wezel, R.J.A., andvan de Grind, W.A. (1991). Light adaptation and frequency transfer properties of horizontal cells. Vision Research, 31, 1129-1142. [link][pdf]
+- Lankheet, M., van Wezel, R., & van de Grind, W. (1991). Light adaptation and frequency transfer properties of cat horizontal cells. Vision Research, 31(7-8), 1129-1142. doi: 10.1016/0042-6989(91)90039-8 [link](https://www.sciencedirect.com/science/article/abs/pii/0042698991900398?via%3Dihub) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1991a_Lankheet.pdf)
 
-Lankheet, M.J.M., van Wezel, R.J.A., and van de Grind, W.A. (1991). Effects of background illumination on horizontal cell responses. Vision Research, 31, 919-932. [link][pdf]
+- Lankheet, M., van Wezel, R., & van de Grind, W. (1991). Effects of background illumination on cat horizontal cell responses. Vision Research, 31(6), 919-932. doi: 10.1016/0042-6989(91)90200-o  [link](https://www.sciencedirect.com/science/article/abs/pii/004269899190200O?via%3Dihub) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1991b_Lankheet.pdf) 
 
  
