@@ -1,4 +1,10 @@
-Publications Richard Van Wezel
+--------------------------------------
+[**Homepage**](https://van-wezel.github.io/personalsite/) - [**About**](https://van-wezel.github.io/personalsite/about.html) - [**Contact information**](https://van-wezel.github.io/personalsite/contact.html) - [**Teaching**](https://van-wezel.github.io/personalsite/teaching.html) - [**Internships**](https://van-wezel.github.io/personalsite/internships.html) - [**Publications**](https://van-wezel.github.io/personalsite/publications.html) - [**Members**](https://van-wezel.github.io/personalsite/members.html) 
+
+-------------------------------------------
+
+
+# Publications of Richard Van Wezel
 
 Kogo, N., Kern, F., Nowotny, Th., van Ee, R., van Wezel, R.J.A., Aihara, T. (2021). Dynamics of a mutual inhibition between pyramidal neurons compared to human perceptual competition. Journal of Neuroscience, 41 (6), 1251-1264.
 
