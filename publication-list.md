@@ -220,13 +220,13 @@ Tao, R., Lankheet, M.J.M., van de Grind, W.A., and van Wezel, R.J.A. (2003). Vel
 
 Borghuis, B.G., Perge, J.A., Vajda, I., van Wezel, R.J.A., van de Grind, W.A., and Lankheet, M.J.M. (2003). The Motion Reverse Correlation (MRC)– method: A linear systems approach in the motion domain. Journal of Neuroscience Methods, 123(2), 153-166 DEMO [link][pdf]
 
-Britten K.H., and van Wezel R.J.A. (2002) Area MST and Heading Perception. Cerebral Cortex, 12(7):692-701. [link][pdf]
+Britten, K., & van Wezel, R. (2002). Area MST and Heading Perception in Macaque Monkeys. Cerebral Cortex, 12(7), 692-701. doi: 10.1093/cercor/12.7.692 [link](https://academic.oup.com/cercor/article/12/7/692/337490?login=true) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2002_Britten_van_Wezel.pdf)
 
-van Wezel, R.J.A., and Britten, K.H. (2002). Motion adaptation in area MT. Journal of Neurophysiology, 88: 3469-3476. [link][pdf]
+- Van Wezel, R., & Britten, K. (2002). Motion Adaptation in Area MT. Journal Of Neurophysiology, 88(6), 3469-3476. doi: 10.1152/jn.00276.2002 [link](https://journals.physiology.org/doi/full/10.1152/jn.00276.2002) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2002b_van_Wezel_Britten.pdf)
 
-van Wezel, R.J.A., and Britten K.H. (2002) Multiple uses of visual motion. The case for stability in sensory cortex. Neuroscience, 111(4):739-759 [link][pdf]
+- van Wezel, R., & Britten, K. (2002). Multiple uses of visual motion. The case for stability in sensory cortex. Neuroscience, 111(4), 739-759. doi: 10.1016/s0306-4522(02)00036-2 [link](https://www.sciencedirect.com/science/article/abs/pii/S0306452202000362?via%3Dihub) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2002a_van_Wezel_Britten.pdf)
 
-Verstraten, F.A.J., Hooge, I.T.C., Culham, J., and van Wezel, R.J.A. (2001). Systematic eye movements do not account for the perception of motion during attentive tracking. Vision Research, 41, 3505-3511. [link][pdf]
+- Verstraten, F., Hooge, I., Culham, J., & Van Wezel, R. (2001). Systematic eye movements do not account for the perception of motion during attentive tracking. Vision Research, 41(25-26), 3505-3511. doi: 10.1016/s0042-6989(01)00205-x [link](https://www.sciencedirect.com/science/article/pii/S004269890100205X?via%3Dihub) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2001_Verstraten.pdf)
 
 - Britten, K., & van Wezel, R. (1998). Electrical microstimulation of cortical area MST biases heading perception in monkeys. Nature Neuroscience, 1(1), 59-63. doi: 10.1038/259 [link](https://www.nature.com/articles/nn0598_59) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1998%20Britten_van_Wezel.pdf)
   - Commentary on our paper by A. Grunewald (1998). Stimulating thoughts about heading perception. Trends in Cognitive Sciences, 2, 7, 239-239. [link](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(98)80019-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1364661398800193%3Fshowall%3Dtrue) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1998_Grunewald.pdf)
