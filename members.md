@@ -42,15 +42,15 @@
 *Jaak Beintema  
 [Jaboc Duijnhouwer](https://www.linkedin.com/in/jacob-d)  
 [János Perge](https://www.linkedin.com/in/jános-a-perge-ph-d-90b0207)  
-Jeannette Lorteije  
-Jorik Nonnekes  
-Mathijs Raemaekers  
-Murielle Ferraye  
-Paul Wieringa  
-Roger Bours  
-Sabine Janssen  
-Wenjun Zhang  
-Yagmur Gucluturk  
-Yan Zhao  
-Ying Wang  
+[Jeannette Lorteije](https://nl.linkedin.com/in/jeannettelorteije)  
+[Jorik Nonnekes](https://nl.linkedin.com/in/jorik-nonnekes-164668105)  
+[Mathijs Raemaekers](https://nl.linkedin.com/in/mathijs-raemaekers-47614b2a)  
+[Murielle Ferraye](https://nl.linkedin.com/in/murielle-ferraye-6941b488)  
+[Paul Wieringa](https://nl.linkedin.com/in/paul-wieringa-a066b764)  
+[Roger Bours](https://nl.linkedin.com/in/roger-bours-62b5168a?trk=people-guest_people_search-card)  
+[Sabine Janssen](https://nl.linkedin.com/in/sabine-janssen-277a551b3)  
+[Wenjun Zhang](https://nl.linkedin.com/in/wenjun-zhang-246091154)  
+[Yagmur Gucluturk](https://nl.linkedin.com/in/yagmurgucluturk)  
+*[Yan Zhao](https://www.researchgate.net/profile/Yan-Zhao-21)  
+[Ying Wang](https://nl.linkedin.com/in/ying-wang-e-healthcare)  
 
