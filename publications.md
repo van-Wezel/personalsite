@@ -8,7 +8,7 @@
 
 # Publications
 
-You can find a list with all publications [here](https://www.mbfys.ru.nl/staff/vanwezel/lab/Publications.html)
+You can find a list with all publications [here](https://van-wezel.github.io/personalsite/publication-list.html)
 
 ### key publications
 
