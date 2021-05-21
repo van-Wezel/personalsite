@@ -158,69 +158,69 @@ Klink, P.C., Brascamp, J.W., Blake, R., and van Wezel, R.J.A. (2010). Experience
 
 Dispatch about our article: Wilson, H.R. (2010). Binocular rivalry: Neurons unwire when they can’t simultaneously fire. Current Biology, 20, 17, R716 [link][pdf]
 
-Duijnhouwer, J., Krekelberg, B., van den Berg, A.V., and van Wezel, R.J.A. (2010). Temporal integration of focus position signal during compensation for pursuit in optic flow. Journal of Vision, 10(14): 14, 1-15. [link][pdf]
+- Duijnhouwer, J., Krekelberg, B., van den Berg, A., & van Wezel, R. (2010). Temporal integration of focus position signal during compensation for pursuit in optic flow. Journal Of Vision, 10(14), 14-14. doi: 10.1167/10.14.14 [link](https://jov.arvojournals.org/article.aspx?articleid=2193720) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2010_Duijnhouwer.pdf)
 
-Oleksiak, A., Manko, M., Postma, A., van der Ham, I.J.M., van den Berg, A.V. and van Wezel, R.J.A. (2010). Distance estimation is influenced by encoding conditions. PLoS ONE, 5(3), e9918. [link][pdf]
+- Oleksiak, A., Mańko, M., Postma, A., van der Ham, I., van den Berg, A., & van Wezel, R. (2010). Distance Estimation Is Influenced by Encoding Conditions. Plos ONE, 5(3), e9918. doi: 10.1371/journal.pone.0009918 [link](|https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009918) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2010a_Oleksiak.pdf)
 
-van der Ham, I.J.M., van Strien, J.W., Oleksiak, A., van Wezel, R.J.A., and Postma, A. (2010).Temporal characteristics of working memory for spatial relations: an ERP study. International Journal of Psychophysiology, 77, 83-94. [pdf]
+- van der Ham, I., van Strien, J., Oleksiak, A., van Wezel, R., & Postma, A. (2010). Temporal characteristics of working memory for spatial relations: An ERP study. International Journal Of Psychophysiology, 77(2), 83-94. doi: 10.1016/j.ijpsycho.2010.04.008 [link](https://www.sciencedirect.com/science/article/abs/pii/S0167876010001182) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2010_van_der_ham.pdf)
 
-Stegenga, J., van Wezel, R.J.A., Heida, T. (2010). Network activity patterns in the subthalamic nucleus of the rat. Conference proceedings of the 7th International Meeting on Substrate-Integrated Microelectrode Arrays. ISBN 978-3-938345-08-5. [pdf]
+- Stegenga, J., van Wezel, R.J.A., Heida, T. (2010). Network activity patterns in the subthalamic nucleus of the rat. Conference proceedings of the 7th International Meeting on Substrate-Integrated Microelectrode Arrays. ISBN 978-3-938345-08-5. [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2010_Stegenga.pdf)
 
-Klink, P.C., Noest, A.J., Holten, V., van den Berg, A.V. and van Wezel, R.J.A. (2009). Occlusion-related lateral connections stabilize kinetic depth stimuli through perceptual coupling. Journal of Vision, 9(10): 20, 1-20. [link] [pdf]
+- Klink, P., Noest, A., Holten, V., van den Berg, A., & van Wezel, R. (2009). Occlusion-related lateral connections stabilize kinetic depth stimuli through perceptual coupling. Journal Of Vision, 9(10), 20-20. doi: 10.1167/9.10.20 [link](http://www.journalofvision.org/content/9/10/20.long) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2009_Klink.pdf)
 
-Raemaekers, M., Lankheet, M.J.M., Moorman, S., Kourtzi, Z., and van Wezel, R.J.A. (2009). Directional anisotropy of motion responses in retinotopic cortex. Human Brain Mapping, 30, 3970-3980. [pdf]
+- Raemaekers, M., Lankheet, M., Moorman, S., Kourtzi, Z., & van Wezel, R. (2009). Directional anisotropy of motion responses in retinotopic cortex. Human Brain Mapping, 30(12), 3970-3980. doi: 10.1002/hbm.20822 [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6870668/) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2009_Raemaekers.pdf)
 
-Raemaekers, M., van der Schaaf, M.S., van Ee, R., and van Wezel, R.J.A. (2009). Widespread fMRI activity differences between perceptual states in visual rivalry are correlated with differences in observer biases. Brain Research, 1252, 161-171. DEMO [pdf]
+- Raemaekers, M., van der Schaaf, M., van Ee, R., & van Wezel, R. (2009). Widespread fMRI activity differences between perceptual states in visual rivalry are correlated with differences in observer biases. Brain Research, 1252, 161-171. doi: 10.1016/j.brainres.2008.11.078 [link](https://www.sciencedirect.com/science/article/abs/pii/S0006899308028436) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2009a_Raemaekers.pdf)
 
-Oleksiak, A., Postma, A., van der Ham, I.J., and van Wezel, R.J.A. (2009). Temporal dynamics of decisions on spatial categories and distances do not differ. Brain and Cognition, 69, 209-217. [pdf]
+- Oleksiak, A., Postma, A., van der Ham, I., & van Wezel, R. (2009). Temporal dynamics of decisions on spatial categories and distances do not differ. Brain And Cognition, 69(1), 209-217. doi: 10.1016/j.bandc.2008.07.006 [link](https://www.sciencedirect.com/science/article/abs/pii/S0278262608002352) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2009_Oleksiak.pdf)
 
-van der Ham, I.J.M., Raemaekers, M., van Wezel, R.J.A., Oleksiak, A. and Postma, A. (2009). Categorical and coordinate spatial relations in working memory: An fMRI study. Brain Research, 1252, 161-171. [pdf]
+- van der Ham, I., Raemaekers, M., van Wezel, R., Oleksiak, A., & Postma, A. (2009). Categorical and coordinate spatial relations in working memory: An fMRI study. Brain Research, 1297, 70-79. doi: 10.1016/j.brainres.2009.07.088 [link](https://www.sciencedirect.com/science/article/abs/pii/S0006899309015832) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2009_vanderham.pdf)
 
-Klink, P.C., van Ee, R., and van Wezel, R.J.A. (2008). General validity of Levelt's propositions reveals common computational mechanisms for visual rivalry. PLoS ONE, 3(10):e3473. [link] [pdf]
+- Klink, P., van Ee, R., & van Wezel, R. (2008). General Validity of Levelt's Propositions Reveals Common Computational Mechanisms for Visual Rivalry. Plos ONE, 3(10), e3473. doi: 10.1371/journal.pone.0003473 [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003473) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2008b_Klink.pdf)
 
-Klink, P.C., van Ee, R., Nijs, M.M., Brouwer, G.J., Noest, A.J. and van Wezel, R.J.A. (2008). Early interactions between neuronal adaptation and voluntary control determine perceptual choices in bistable vision. Journal of Vision, 8(5):16, 1-18. DEMO [link] [pdf]
+- Klink, P., van Ee, R., Nijs, M., Brouwer, G., Noest, A., & van Wezel, R. (2008). Early interactions between neuronal adaptation and voluntary control determine perceptual choices in bistable vision. Journal Of Vision, 8(5), 16. doi: 10.1167/8.5.16 [link](https://jov.arvojournals.org/article.aspx?articleid=2194346) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2008a_Klink.pdf)
 
-Kourtzi, Z., Krekelberg, B., and van Wezel, R.J.A. (2008). Linking form and motion in the primate brain. Trends in Cognitive Sciences, 12, 6, 230-236. [link] [pdf]
+- Kourtzi, Z., Krekelberg, B., & van Wezel, R. (2008). Linking form and motion in the primate brain. Trends In Cognitive Sciences, 12(6), 230-236. doi: 10.1016/j.tics.2008.02.013 [link](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(08)00111-3) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2008_Kourtzi.pdf)
 
-Lorteije, J.A.M., van Wezel, R.J.A., and van der Smagt, M.J. (2008). Disentangling neural structures for processing high- and low-speed visual motion. European Journal of Neuroscience, 27, 2341-2353. [link] [pdf]
+- Lorteije, J., Van Wezel, R., & Van Der Smagt, M. (2008). Disentangling neural structures for processing of high- and low-speed visual motion. European Journal Of Neuroscience, 27(9), 2341-2353. doi: 10.1111/j.1460-9568.2008.06193.x [link](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1460-9568.2008.06193.x) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2008_Lorteije.pdf)
 
-Duijnhouwer, J. , van Wezel, R.J.A., and van den Berg, A.V. (2008). The role of motion capture in an illusory transformation of optic flow fields. Journal of Vision, 8(4):27, 1-18. [link] [pdf]
+- Duijnhouwer, J., van Wezel, R., & van den Berg, A. (2008). The role of motion capture in an illusory transformation of optic flow fields. Journal Of Vision, 8(4), 27. doi: 10.1167/8.4.27 [link](https://jov.arvojournals.org/article.aspx?articleid=2122494) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2008_Duijnhouwer.pdf)
 
-Noest, A.J., van Ee, R., Nijs, M.M. and van Wezel, R.J.A. (2007). Percept choice sequences driven by interrupted ambiguous stimuli: A low level neural model. Journal of Vision, 7(8):10, 1-14 , DEMO [link] [pdf]
+- Noest, A., van Ee, R., Nijs, M., & van Wezel, R. (2007). Percept-choice sequences driven by interrupted ambiguous stimuli: A low-level neural model. Journal Of Vision, 7(8), 10. doi: 10.1167/7.8.10 [link](https://jov.arvojournals.org/article.aspx?articleid=2121916) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2007_Noest.pdf)
 
-Lorteije, J.A.M., Kenemans, J.L., Jellema, T., van der Lubbe, R.H.J., Lommers, M.W., and van Wezel, R.J.A. (2007). Adaptation to real motion reveals direction selective interactions between real and implied motion processing. Journal of Cognitive Neuroscience, 19, 1231-1240. [link] [pdf]
+- Lorteije, J., Kenemans, J., Jellema, T., van der Lubbe, R., Lommers, M., & van Wezel, R. (2007). Adaptation to Real Motion Reveals Direction-selective Interactions between Real and Implied Motion Processing. Journal Of Cognitive Neuroscience, 19(8), 1231-1240. doi: 10.1162/jocn.2007.19.8.1231 [link](https://direct.mit.edu/jocn/article/19/8/1231/4408/Adaptation-to-Real-Motion-Reveals-Direction) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2007_Lorteije.pdf)
 
-Kamphuisen, A.P., van Wezel, R.J.A. and van Ee, R. (2007). Inter-ocular transfer of stimulus cueing in dominance selection at the onset of binocular rivalry. Vision Research, 47, 1142-1144. [link] [pdf]
+- Kamphuisen, A., van Wezel, R., & van Ee, R. (2007). Inter-ocular transfer of stimulus cueing in dominance selection at the onset of binocular rivalry. Vision Research, 47(9), 1142-1144. doi: 10.1016/j.visres.2007.01.016 [link](https://www.sciencedirect.com/science/article/pii/S0042698907000430) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2007_Kamphuisen.pdf)
 
-Raemaekers, M., Vink, M., Zandbelt, B., van Wezel, R.J.A., Kahn, R.S. and Ramsey, N.F. (2007). Test-retest reliability of fMRI activation during prosaccades and antisaccades. NeuroImage, 36, 532-542. [link] [pdf]
+- Raemaekers, M., Vink, M., Zandbelt, B., van Wezel, R., Kahn, R., & Ramsey, N. (2007). Test–retest reliability of fMRI activation during prosaccades and antisaccades. Neuroimage, 36(3), 532-542. doi: 10.1016/j.neuroimage.2007.03.061 [link](https://www.sciencedirect.com/science/article/abs/pii/S1053811907002157) [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2007_Raemaekers.pdf)
 
-van der Ham, C.J.M., van Wezel, R.J.A., Oleksiak, A. and Postma, A. (2007). The time course of hemispheric differences in categorical and coordinate spatial processing. Neuropsychologia, 45, 2492-2498. [link] [pdf]
+- van der Ham, I., van Wezel, R., Oleksiak, A., & Postma, A. (2007). The time course of hemispheric differences in categorical and coordinate spatial processing. Neuropsychologia, 45(11), 2492-2498. doi: 10.1016/j.neuropsychologia.2007.03.021 [link](https://www.sciencedirect.com/science/article/abs/pii/S0028393207001303) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2007_van%20der%20Ham.pdf)
 
-Krekelberg, B., van Wezel, R.J.A., and Albright, T.A. (2006). Interactions between speed and contrast tuning in MT: implications for the neural code for speed. Journal of Neuroscience. 26, 8988-8998. DEMO [link] [pdf]
+- Krekelberg, B., van Wezel, R., & Albright, T. (2006). Interactions between Speed and Contrast Tuning in the Middle Temporal Area: Implications for the Neural Code for Speed. Journal Of Neuroscience, 26(35), 8988-8998. doi: 10.1523/jneurosci.1983-06.2006 [link](http://www.jneurosci.org/content/26/35/8988.full) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2006c_Krekelberg.pdf)
 
-Beintema, J.A., Oleksiak, A. and van Wezel, R.J.A. (2006). The influence of biological motion perception on structure-from-motion interpretations at different speeds. Journal of Vision, 6, 712-726.  [link] [pdf]
+- Beintema, J., Oleksiak, A., & van Wezel, R. (2006). The influence of biological motion perception on structure-from-motion interpretations at different speeds. Journal Of Vision, 6(7), 4. doi: 10.1167/6.7.4 [link](https://jov.arvojournals.org/article.aspx?articleid=2121888) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2006_Beintema.pdf)
 
-Krekelberg, B., Boynton, G.M. and van Wezel, R.J.A. (2006). Adaptation: from single cells to BOLD signals. Trends in Neurosciences, 29, 250-256. [link] [pdf]
+- Krekelberg, B., Boynton, G., & van Wezel, R. (2006). Adaptation: from single cells to BOLD signals. Trends In Neurosciences, 29(5), 250-256. doi: 10.1016/j.tins.2006.02.008 [link](https://europepmc.org/article/med/16529826) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2006b_Krekelberg.pdf)
 
-Lorteije, J.A.M., Kenemans, J.L., Jellema, T., van der Lubbe, R.H.J., de Heer, F. and van Wezel, R.J.A. (2006). Delayed response to animate implied motion in human motion processing areas. Journal of Cognitive Neuroscience, 18, 1-11. [link] [pdf]
+- Lorteije, J., Kenemans, J., Jellema, T., van der Lubbe, R., de Heer, F., & van Wezel, R. (2006). Delayed Response to Animate Implied Motion in Human Motion Processing Areas. Journal Of Cognitive Neuroscience, 18(2), 158-168. doi: 10.1162/jocn.2006.18.2.158 [link](https://direct.mit.edu/jocn/article/18/2/158/4125/Delayed-Response-to-Animate-Implied-Motion-in) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2006_Lorteije.pdf)
 
-Krekelberg, B., van Wezel, R.J.A., and Albright, T.A. (2006). Adaptation in MT reduces perceived speed and improves speed discrimination. Journal of Neurophysiology, 95, 255-270. [link] [pdf]
+- Krekelberg, B., van Wezel, R., & Albright, T. (2006). Adaptation in Macaque MT Reduces Perceived Speed and Improves Speed Discrimination. Journal Of Neurophysiology, 95(1), 255-270. doi: 10.1152/jn.00750.2005 [link](https://journals.physiology.org/doi/full/10.1152/jn.00750.2005) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2006a_Krekelberg.pdf)
 
-Duijnhouwer, J., Beintema, J.A., van den Berg, A.V. and van Wezel, R.J.A. An illusory transformation of optic flow fields without local motion interactions (2006). Vision Research, 46, 439-443. [link] [pdf]
+- Duijnhouwer, J., Beintema, J., van den Berg, A., & van Wezel, R. (2006). An illusory transformation of optic flow fields without local motion interactions. Vision Research, 46(4), 439-443. doi: 10.1016/j.visres.2005.05.005 [link](https://www.sciencedirect.com/science/article/pii/S0042698905002427) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2006_Duijnhouwer.pdf)
 
-Perge, J.A., Borghuis, B.G., Bours, R.J.E., Lankheet, M.J.M. and van Wezel, R.J.A. (2005). Temporal dynamics of direction tuning in motion sensitive area MT. Journal of Neurophysiology. 93. 2104-2116  DEMO [link][pdf]
+- Perge, J., Borghuis, B., Bours, R., Lankheet, M., & van Wezel, R. (2005). Temporal Dynamics of Direction Tuning in Motion-Sensitive Macaque Area MT. Journal Of Neurophysiology, 93(4), 2104-2116. doi: 10.1152/jn.00601.2004  [link](https://journals.physiology.org/doi/full/10.1152/jn.00601.2004) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2005a_Perge.pdf)
 
-Perge, J.A. Borghuis, B., Bours, R.J.E., Lankheet, M.J.M. and van Wezel, R.J.A. (2005). Dynamics of directional selectivity in MT receptive field center and surround. European Journal of Neuroscience. 20, 2049-2058.  DEMO [link][pdf]
+- Perge, J., Borghuis, B., Bours, R., Lankheet, M., & van Wezel, R. (2005). Dynamics of directional selectivity in MT receptive field centre and surround. European Journal Of Neuroscience, 22(8), 2049-2058. doi: 10.1111/j.1460-9568.2005.04363.x  [link](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1460-9568.2005.04363.x) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2005b_Perge.pdf) 
 
-Hooge, I.Th.C., Over, E.A.B., van Wezel, R.J.A., and Frens, M.A. (2005). Inhibition of return is not a foraging facilitator in saccadic search and free viewing. Vision Research, 45, 1901-1908. [link][pdf]
+- Hooge, I., Over, E., van Wezel, R., & Frens, M. (2005). Inhibition of return is not a foraging facilitator in saccadic search and free viewing. Vision Research, 45(14), 1901-1908. doi: 10.1016/j.visres.2005.01.030 [link](https://www.sciencedirect.com/science/article/pii/S0042698905000623?via%3Dihub) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2005_Hooge.pdf)
 
-van Wezel, R.J.A. and van der Smagt, M.J. (2003). Motion processing: how low can you go. Current Biology, 13, 840-842. [link][pdf]
+- van Wezel, R., & van der Smagt, M. (2003). Motion Processing: How Low Can You Go?. Current Biology, 13(21), R840-R842. doi: 10.1016/j.cub.2003.10.017 [link](https://www.cell.com/current-biology/fulltext/S0960-9822(03)00770-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098220300770X%3Fshowall%3Dtrue) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2003_van_Wezel.pdf)
 
-Tao, R., Lankheet, M.J.M., van de Grind, W.A., and van Wezel, R.J.A. (2003). Velocity dependence of the interocular transfer of dynamic motion afteraffects. Perception, 32, 855-866. [link][pdf]
+- Tao, R., Lankheet, M., van de Grind, W., & van Wezel, R. (2003). Velocity Dependence of the Interocular Transfer of Dynamic Motion Aftereffects. Perception, 32(7), 855-866. doi: 10.1068/p3442 [link](https://journals.sagepub.com/doi/10.1068/p3442) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2003_Tao.pdf) 
 
-Borghuis, B.G., Perge, J.A., Vajda, I., van Wezel, R.J.A., van de Grind, W.A., and Lankheet, M.J.M. (2003). The Motion Reverse Correlation (MRC)– method: A linear systems approach in the motion domain. Journal of Neuroscience Methods, 123(2), 153-166 DEMO [link][pdf]
+- Borghuis, B., Perge, J., Vajda, I., van Wezel, R., van de Grind, W., & Lankheet, M. (2003). The motion reverse correlation (MRC) method:. Journal Of Neuroscience Methods, 123(2), 153-166. doi: 10.1016/s0165-0270(02)00347-3  [link](https://www.sciencedirect.com/science/article/abs/pii/S0165027002003473?via%3Dihub) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2003_Borghuis.pdf)
 
-Britten, K., & van Wezel, R. (2002). Area MST and Heading Perception in Macaque Monkeys. Cerebral Cortex, 12(7), 692-701. doi: 10.1093/cercor/12.7.692 [link](https://academic.oup.com/cercor/article/12/7/692/337490?login=true) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2002_Britten_van_Wezel.pdf)
+- Britten, K., & van Wezel, R. (2002). Area MST and Heading Perception in Macaque Monkeys. Cerebral Cortex, 12(7), 692-701. doi: 10.1093/cercor/12.7.692 [link](https://academic.oup.com/cercor/article/12/7/692/337490?login=true) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2002_Britten_van_Wezel.pdf)
 
 - Van Wezel, R., & Britten, K. (2002). Motion Adaptation in Area MT. Journal Of Neurophysiology, 88(6), 3469-3476. doi: 10.1152/jn.00276.2002 [link](https://journals.physiology.org/doi/full/10.1152/jn.00276.2002) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2002b_van_Wezel_Britten.pdf)
 
