@@ -92,17 +92,17 @@ Rietdijk, C.D., Perez-Pardo, P., Garssen, J., van Wezel, R.J.A., Kraneveld, A. (
 
 Schellekens, W., Ramsey, N., van Wezel, R.J.A., and Raemaekers, M. (2017). Changes in fMRI BOLD dynamics reflect anticipation to moving objects. Neuroimage, 161, 188 - 195.
 
-Janssen, S., Ekker, M.S., Poewe, W. van Wezel, R.J.A., Nonnekes, J. and Bloem. (2017). Response to: on the role of visual electrophysiology in parkinson’s disease. Parkinsonism & Related Disorders
+- S, J., Ekker, M., Poewe, W., van Wezel, R., Nonnekes, J., & Bloem, B. (2017). Response to: On the role of visual electrophysiology in parkinson's disease. Parkinsonism & Related Disorders, 45, 98. doi: 10.1016/j.parkreldis.2017.09.004 [link](https://www.researchgate.net/publication/319597548_Response_to_On_the_role_of_visual_electrophysiology_in_parkinson%27s_disease) 
 
-Schellekens, W., van Wezel, R.J.A., Petridou, N., Ramsey, N.F., and Raemaekers, M. (2016) Predictive coding for motion stimuli in human early visual cortex. Brain Structure and Function, 221, 2, 879-890. [link]
+- Schellekens, W., van Wezel, R., Petridou, N., Ramsey, N., & Raemaekers, M. (2014). Predictive coding for motion stimuli in human early visual cortex. Brain Structure And Function, 221(2), 879-890. doi: 10.1007/s00429-014-0942-2 [link](http://link.springer.com/article/10.1007%2Fs00429-014-0942-2) 
 
-Zhao, Y., Nonnekes, J., Storcken, E.J.M., Janssen, S., van Wegen, E.E.H., Bloem, B.R., Dorresteijn, L.C.A., van Vugt, J.P.P., Heida, T., van Wezel, R.J.A. (2016) Feasibility of external rythmic cueing with the Google Glass for improving gait in people with Parkinson’s Disease. J. Neurology, 263, 6, 1156-1165. [link]
+- Zhao, Y., Nonnekes, J., Storcken, E., Janssen, S., van Wegen, E., & Bloem, B. et al., van Wezel, R., (2016). Feasibility of external rhythmic cueing with the Google Glass for improving gait in people with Parkinson’s disease. Journal Of Neurology, 263(6), 1156-1165. doi: 10.1007/s00415-016-8115-2 [link](http://link.springer.com/article/10.1007/s00415-016-8115-2) 
 
-Ba, W., Selten, M.M., van der Raadt, J., van Veen, H., Benevento, M., Oudakker, A.R., Lasabuda, R.S.E., Letteboer, S., Roepman, R., van Wezel. R.J.A., Courtney, M.J., van Bokhoven, H., and Nadif Kasri, N. (2016). ARHGAP12 functions as a developmental brake on excitatory synapse function. Cell Reports, 14, 6, 1355-1368.
+- Ba, W., Selten, M., van der Raadt, J., van Veen, H., Li, L., & Benevento, M., van Wezel, R., et al. (2016). ARHGAP12 Functions as a Developmental Brake on Excitatory Synapse Function. Cell Reports, 14(6), 1355-1368. doi: 10.1016/j.celrep.2016.01.037 [link](https://pubmed.ncbi.nlm.nih.gov/26854232/) 
 
-Buimer, H.P., Bittner, M., Kostelijk, T., van der Geest, T.M. van Wezel, R.J.A., Zhao, Y. (2016). Enhancing emotion recognition in VIPs with haptic feedback. Communications in Computer and Information Science, 618, 157 -163.
+Buimer, H., Bittner, M., Kostelijk, T., van der Geest, T., van Wezel, R., & Zhao, Y. (2016). Enhancing Emotion Recognition in VIPs with Haptic Feedback. HCI International 2016 – Posters' Extended Abstracts, 618, 157-163. doi: 10.1007/978-3-319-40542-1_25 [link](https://link.springer.com/chapter/10.1007/978-3-319-40542-1_25) 
 
-Rietdijk, C.D., van Wezel, R.J.A., Garssen, J. and Kraneveld (2016). Neuronal Toll-like receptors and neuro-immunity in Parkinson’s disease, Alzheimer’s disease and stroke. Neuroimmunology and Neuroinflammation, 3, 27-37. 
+- Rietdijk, C., Van Wezel, R., Garssen, J., & Kraneveld, A. (2016). Neuronal toll-like receptors and neuro-immunity in Parkinson's disease, Alzheimer's disease and stroke. Neuroimmunology And Neuroinflammation, 3(2), 27-37. doi: 10.20517/2347-8659.2015.28 [link](https://www.researchgate.net/publication/296619647_Neuronal_toll-like_receptors_and_neuro-immunity_in_Parkinson%27s_disease_Alzheimer%27s_disease_and_stroke) 
 
 - Grootendorst, D., Fratila, R., Pouw, J., Ten Haken, B., Van Wezel, R., & Rottenberg, S. et al. (2017). Photoacoustic staging of nodal metastases using SPIOs: Comparison between in vivo, in toto and ex vivo imaging in a rat model. Biomedical Spectroscopy And Imaging, 5(1), 71-87. doi: 10.3233/bsi-150127 [link](https://www.researchgate.net/publication/289498330_Photoacoustic_staging_of_nodal_metastases_using_SPIOs_Comparison_between_in_vivo_in_toto_and_ex_vivo_imaging_in_a_rat_model) 
 
