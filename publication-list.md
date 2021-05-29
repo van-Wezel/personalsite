@@ -26,17 +26,17 @@ Wieringa, P., Girao, A., Truckenmuller, R., Welle, A., Micera, S., van Wezel, R.
 
 Veldhuijzen, G., Klaassen, N.J.M., van Wezel, R.J.A., Drenth, J.P.H., and van Esch, A.A. (2020). Virtual reality distraction for patients to relieve pain and discomfort during colonoscopy. Endoscopy International Open 8 (7), e959.
 
-Mol, A., Meskers, C., Niehof, S., Maier, A., and van Wezel, R.J.A. (2020). Pulse transit time as a proxy for vasoconstriction in younger and older adults. Experimental Gerontology, 135, 110938.
+- Mol, A., Meskers, C., Niehof, S., Maier, A., & van Wezel, R. (2020). Pulse transit time as a proxy for vasoconstriction in younger and older adults. Experimental Gerontology, 135, 110938. doi: 10.1016/j.exger.2020.110938 [link](https://www.researchgate.net/publication/340406213_Pulse_transit_time_as_a_proxy_for_vasoconstriction_in_younger_and_older_adults) 
 
-Janssen, S., De Ruyter-van Steveninck, Salim, H.S., Bloem, B., Heida, T., and van Wezel, R.J.A. (2020). The beneficial effects of conventional visual cues are retained when augmented reality glasses are worn. Parkinson’s Disease, ID 4104712, 1-3.
+- Janssen, S., de Ruyter van Steveninck, J., Salim, H., Bloem, B., Heida, T., & van Wezel, R. (2020). The Beneficial Effects of Conventional Visual Cues Are Retained When Augmented Reality Glasses Are Worn. Parkinson's Disease, 2020, 1-3. doi: 10.1155/2020/4104712 [link](https://www.researchgate.net/publication/340499552_The_Beneficial_Effects_of_Conventional_Visual_Cues_Are_Retained_When_Augmented_Reality_Glasses_Are_Worn) 
 
-Janssen, S., de Ruyter-van Steveninck, J., Salim, H.S., Cockx, H.M., Bloem, B., Heida, T., and van Wezel, R.J.A. (2020). The effects of augmented reality cues on turning in place in Parkinson’s Disease patients with freezing of gait. Frontiers in Neurology, Movement Disorders, 11, 185, 1-9.
+- Janssen, S., de Ruyter van Steveninck, J., Salim, H., Cockx, H., Bloem, B., Heida, T., & van Wezel, R. (2020). The Effects of Augmented Reality Visual Cues on Turning in Place in Parkinson's Disease Patients With Freezing of Gait. Frontiers In Neurology, 11(185), 1-9. doi: 10.3389/fneur.2020.00185 [link](https://www.researchgate.net/publication/340116437_Citation_The_Effects_of_Augmented_Reality_Visual_Cues_on_Turning_in_Place_in_Parkinson%27s_Disease_Patients_With_Freezing_of_Gait) 
 
-Mol, A., Maier, A.B., van Wezel, R.J.A., and Meskers, C.G.M. (2020). Multimodal monitoring of cardiovascular responses to postural changes. Frontiers in Physiology, Integrative Physiology, 168.
+- Mol, A., Maier, A., van Wezel, R., & Meskers, C. (2020). Multimodal Monitoring of Cardiovascular Responses to Postural Changes. Frontiers In Physiology, 11(168). doi: 10.3389/fphys.2020.00168 [link](https://www.researchgate.net/publication/339643181_5_Multimodal_Monitoring_of_Cardiovascular_Responses_to_Postural_Changes) 
 
-Mol, A., Slangen, L.R.N., Trappenburg, M.C., Reijnierse, E.M., van Wezel, R.J.A., Meskers, C.G.M., Maier, M. (2020). Blood pressure drop rate after standing up associates with frailty and number of falls in geriatric outpatients. JAHA, 9(7), 1-23.
+- Mol, A., Slangen, L., Trappenburg, M., Reijnierse, E., van Wezel, R., Meskers, C., & Maier, A. (2020). Blood Pressure Drop Rate After Standing Up Is Associated With Frailty and Number of Falls in Geriatric Outpatients. Journal Of The American Heart Association, 9(7), 1-23. doi: 10.1161/jaha.119.014688 [link](https://www.researchgate.net/publication/340279942_Blood_Pressure_Drop_Rate_After_Standing_Up_Is_Associated_With_Frailty_and_Number_of_Falls_in_Geriatric_Outpatients) 
 
-Wieringa, P., Truckenmuller, R., Micera, S., van Wezel, R.J.A., Moroni, S. (2020). Tandem electrospinning for heterogeneous nanofiber patterns. Biofabrication, 12 (2), 025010.
+- Wieringa, P., Truckenmuller, R., Micera, S., van Wezel, R., & Moroni, L. (2020). Tandem electrospinning for heterogeneous nanofiber patterns. Biofabrication, 12(2), 025010. doi: 10.1088/1758-5090/ab6edb [link](https://www.researchgate.net/publication/337084154_Tandem_electrospinning_for_heterogeneous_nanofiber_patterns) 
 
 - Zhang, W., Rezvani, Z., van Wezel, R.J.A. and Kirkels, L. (2020). Monocular and binocular opto-locomotor reflex biases for random dot motion in mice. Journal of Vision. 20(2), 6, 1-12, doi: 10.1167/jov.20.2.6 [link](https://www.researchgate.net/publication/339509709_Monocular_and_binocular_opto-locomotor_reflex_biases_for_random_dot_motion_in_mice)
 
