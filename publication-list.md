@@ -159,7 +159,7 @@
 
 - Duijnhouwer, J., Krekelberg, B., van den Berg, A., & van Wezel, R. (2010). Temporal integration of focus position signal during compensation for pursuit in optic flow. Journal Of Vision, 10(14), 14-14. doi: 10.1167/10.14.14 [link](https://jov.arvojournals.org/article.aspx?articleid=2193720) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2010_Duijnhouwer.pdf) 
 
-- Oleksiak, A., Mańko, M., Postma, A., van der Ham, I., van den Berg, A., & van Wezel, R. (2010). Distance Estimation Is Influenced by Encoding Conditions. Plos ONE, 5(3), e9918. doi: 10.1371/journal.pone.0009918 [link](|https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009918) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2010a_Oleksiak.pdf)
+- Oleksiak, A., Mańko, M., Postma, A., van der Ham, I., van den Berg, A., & van Wezel, R. (2010). Distance Estimation Is Influenced by Encoding Conditions. Plos ONE, 5(3), e9918. doi: 10.1371/journal.pone.0009918 [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009918) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2010a_Oleksiak.pdf)
 
 - van der Ham, I., van Strien, J., Oleksiak, A., van Wezel, R., & Postma, A. (2010). Temporal characteristics of working memory for spatial relations: An ERP study. International Journal Of Psychophysiology, 77(2), 83-94. doi: 10.1016/j.ijpsycho.2010.04.008 [link](https://www.sciencedirect.com/science/article/abs/pii/S0167876010001182) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2010_van_der_ham.pdf)
 
