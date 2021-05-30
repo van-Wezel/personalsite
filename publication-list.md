@@ -53,7 +53,7 @@
 
 - Janssen, S., Heijs, J.A.A., van der Meijs, W., Nonnekes, J., Bittner, M., Dorresteijn, L.D.A., Bloem, B.R., van Wezel, R.J.A., and Heida, T. (2019). Validation of the Auditory Stroop Task to increase cognitive load in walking tasks in healthy elderly and persons with Parkinson’s disease. PLOS ONE, 14(8), e0220735. doi: 10.1371/journal.pone.0220735 [link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0220735) 
 
--Schaper, F.L.W.V.J., Zhao, Y., Janssen, M.L.F., Wagner, G.L., Colon, A.J., Hilkman, D.M.W., Vlooswijk, M.C.G., Hoogland, G., Ackermans, L., Bour, L.J., van Wezel, R.J.A., Boon, P., Temel, Y., Heida, T., van Kranen-Mastenbroek, V.H.J.M., and Rouhl, R.P.W. (2019). Single-Cell Recordings to Target the Anterior Nucleus of the Thalamus in Deep Brain Stimulation for Patients with Refractory Epilepsy. International Journal Of Neural Systems, 29(04), 1850012. doi: 10.1142/s0129065718500120 [Link](https://www.worldscientific.com/doi/abs/10.1142/S0129065718500120?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&) 
+- Schaper, F.L.W.V.J., Zhao, Y., Janssen, M.L.F., Wagner, G.L., Colon, A.J., Hilkman, D.M.W., Vlooswijk, M.C.G., Hoogland, G., Ackermans, L., Bour, L.J., van Wezel, R.J.A., Boon, P., Temel, Y., Heida, T., van Kranen-Mastenbroek, V.H.J.M., and Rouhl, R.P.W. (2019). Single-Cell Recordings to Target the Anterior Nucleus of the Thalamus in Deep Brain Stimulation for Patients with Refractory Epilepsy. International Journal Of Neural Systems, 29(04), 1850012. doi: 10.1142/s0129065718500120 [Link](https://www.worldscientific.com/doi/abs/10.1142/S0129065718500120?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&) 
 
 - Mol, A., Woltering, J., Colier, W., Maier, A., Meskers, C., & van Wezel, R. (2019). Sensitivity and reliability of cerebral oxygenation responses to postural changes measured with near-infrared spectroscopy. European Journal Of Applied Physiology, 119(5), 1117-1125. doi: 10.1007/s00421-019-04101-0 [Link](https://link.springer.com/article/10.1007/s00421-019-04101-0) 
 
@@ -99,7 +99,7 @@
 
 - Ba, W., Selten, M., van der Raadt, J., van Veen, H., Li, L., & Benevento, M., van Wezel, R., et al. (2016). ARHGAP12 Functions as a Developmental Brake on Excitatory Synapse Function. Cell Reports, 14(6), 1355-1368. doi: 10.1016/j.celrep.2016.01.037 [link](https://pubmed.ncbi.nlm.nih.gov/26854232/) 
 
-Buimer, H., Bittner, M., Kostelijk, T., van der Geest, T., van Wezel, R., & Zhao, Y. (2016). Enhancing Emotion Recognition in VIPs with Haptic Feedback. HCI International 2016 – Posters' Extended Abstracts, 618, 157-163. doi: 10.1007/978-3-319-40542-1_25 [link](https://link.springer.com/chapter/10.1007/978-3-319-40542-1_25) 
+- Buimer, H., Bittner, M., Kostelijk, T., van der Geest, T., van Wezel, R., & Zhao, Y. (2016). Enhancing Emotion Recognition in VIPs with Haptic Feedback. HCI International 2016 – Posters' Extended Abstracts, 618, 157-163. doi: 10.1007/978-3-319-40542-1_25 [link](https://link.springer.com/chapter/10.1007/978-3-319-40542-1_25) 
 
 - Rietdijk, C., Van Wezel, R., Garssen, J., & Kraneveld, A. (2016). Neuronal toll-like receptors and neuro-immunity in Parkinson's disease, Alzheimer's disease and stroke. Neuroimmunology And Neuroinflammation, 3(2), 27-37. doi: 10.20517/2347-8659.2015.28 [link](https://www.researchgate.net/publication/296619647_Neuronal_toll-like_receptors_and_neuro-immunity_in_Parkinson%27s_disease_Alzheimer%27s_disease_and_stroke) 
 
@@ -157,7 +157,7 @@ Buimer, H., Bittner, M., Kostelijk, T., van der Geest, T., van Wezel, R., & Zhao
 
 - Dispatch about our article: Wilson, H. (2010). Binocular Rivalry: Neurons Unwire When They Can't Simultaneously Fire. Current Biology, 20(17), R715-R717. doi: 10.1016/j.cub.2010.07.015 [link](https://www.cell.com/current-biology/fulltext/S0960-9822(10)00913-9) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2010_Wilson.pdf) 
 
-- Duijnhouwer, J., Krekelberg, B., van den Berg, A., & van Wezel, R. (2010). Temporal integration of focus position signal during compensation for pursuit in optic flow. Journal Of Vision, 10(14), 14-14. doi: 10.1167/10.14.14  [link](https://jov.arvojournals.org/article.aspx?articleid=2193720) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2010_Duijnhouwer.pdf) 
+- Duijnhouwer, J., Krekelberg, B., van den Berg, A., & van Wezel, R. (2010). Temporal integration of focus position signal during compensation for pursuit in optic flow. Journal Of Vision, 10(14), 14-14. doi: 10.1167/10.14.14 [link](https://jov.arvojournals.org/article.aspx?articleid=2193720) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2010_Duijnhouwer.pdf) 
 
 - Oleksiak, A., Mańko, M., Postma, A., van der Ham, I., van den Berg, A., & van Wezel, R. (2010). Distance Estimation Is Influenced by Encoding Conditions. Plos ONE, 5(3), e9918. doi: 10.1371/journal.pone.0009918 [link](|https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009918) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2010a_Oleksiak.pdf)
 
