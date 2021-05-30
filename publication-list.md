@@ -6,25 +6,24 @@
 
 # Publications of Richard Van Wezel
 
-(Ordered on publication date (newest on the top), still has to be numbered)
 
-Kogo, N., Kern, F., Nowotny, Th., van Ee, R., van Wezel, R.J.A., Aihara, T. (2021). Dynamics of a mutual inhibition between pyramidal neurons compared to human perceptual competition. Journal of Neuroscience, 41 (6), 1251-1264.
+- Kogo, N., Kern, F., Nowotny, T., van Ee, R., van Wezel, R., & Aihara, T. (2020). Dynamics of a Mutual Inhibition Circuit between Pyramidal Neurons Compared to Human Perceptual Competition. The Journal Of Neuroscience, 41(6), 1251-1264. doi: 10.1523/jneurosci.2503-20.2020 [link](https://www.biorxiv.org/content/10.1101/2020.05.26.113324v2) 
 
-Mol, A., Blom, M.E.C., van den Bosch, D.J., van Wezel, R.J.A., Meskers, C.G.M., Maier, A.B. (2021). Orthostatic blood pressure recovery measured using a sphygmomanometer is not associatted with physical performance or number of falls in geriatric outpatients. Gerontology, In Press. 
+- Mol, A., Blom, M.E.C., van den Bosch, D.J., van Wezel, R.J.A., Meskers, C.G.M., Maier, A.B. (2021). Orthostatic blood pressure recovery measured using a sphygmomanometer is not associatted with physical performance or number of falls in geriatric outpatients. Gerontology, In Press. 
 
-Mol, A., Slangen, L., Trappenburg, M.C., van Wezel, R.J.A., Meskers, C.G.M., and Maier, A.B. (2021). Orthostatic blood pressure recovery associates with physical performance, frailty and number of falls in geriatric outpatients. Journal of Hypertension, 39(1), 101-106.
+- Mol, A., Slangen, L., van Wezel, R., Maier, A., & Meskers, C. (2020). Orthostatic blood pressure recovery associates with physical performance, frailty and number of falls in geriatric outpatients. Journal Of Hypertension, 39(1), 101-106. doi: 10.1097/hjh.0000000000002617 [link](https://www.researchgate.net/publication/343552008_Orthostatic_blood_pressure_recovery_associates_with_physical_performance_frailty_and_number_of_falls_in_geriatric_outpatients) 
 
-Janssen, S. Heijs, J.J.A., Bittner, M., Droog, E., Bloem, B.R., van Wezel, R.J.A., Heida, T. (2021). Visual cues added to a virtual environment paradigm do not improve motor arrests in Parkinson’s disease. Journal of Neural Engineering. In Press. 
+- Janssen, S. Heijs, J.J.A., Bittner, M., Droog, E., Bloem, B.R., van Wezel, R.J.A., Heida, T. (2021). Visual cues added to a virtual environment paradigm do not improve motor arrests in Parkinson’s disease. Journal of Neural Engineering. In Press. 
 
-Govaerts, W., Kuznetsov, Y.A., Meijer, H.G.E., Neirynck, N., van Wezel, R.J.A. (2020). Bistability and stabilization of human visual perception under ambiguous stimulation. Nonlinear Dynamics, Psychology and Life Sciences, In Press.
+- Govaerts, W., Kuznetsov, Y.A., Meijer, H.G.E., Neirynck, N., van Wezel, R.J.A. (2020). Bistability and stabilization of human visual perception under ambiguous stimulation. Nonlinear Dynamics, Psychology and Life Sciences, In Press.
 
-Genzel, L. et al. (2020). How the COVIC-19 pandemic highlights the necessity of animal research. Current Biology, 30 (18), R1014-1018.
+- Genzel, L. et al. (2020). How the COVIC-19 pandemic highlights the necessity of animal research. Current Biology, 30 (18), R1014-1018. [link](https://www.sciencedirect.com/science/article/abs/pii/S0960982220311842) 
 
-Kirkels, L., Dorman, R., and van Wezel, R.J.A. (2020). Perceptual coupling based on depth hand motion cues in stereovision-impaired subjects. Perception, 49 (10), 1101-1114.
+- Kirkels, L., Dorman, R., & Wezel, R. (2020). Perceptual Coupling Based on Depth and Motion Cues in Stereovision-Impaired Subjects. Perception, 49(10), 1101-1114. doi: 10.1177/0301006620952058 [link](https://journals.sagepub.com/doi/full/10.1177/0301006620952058) 
 
-Wieringa, P., Girao, A., Truckenmuller, R., Welle, A., Micera, S., van Wezel, R., Moroni, L. (2020). A one-step biofunctionalization strategy of electrospun scaffolds enables spatially selective presentation of biological cues. Advanced Materials Technology, 5(10), 200269.
+- Wieringa, P., Girao, A., Truckenmuller, R., Welle, A., Micera, S., van Wezel, R., Moroni, L. (2020). (2020). A One‐Step Biofunctionalization Strategy of Electrospun Scaffolds Enables Spatially Selective Presentation of Biological Cues. Advanced Materials Technologies, 5(10), 2000269. doi: 10.1002/admt.202000269 [link](https://www.researchgate.net/publication/343454097_A_One-Step_Biofunctionalization_Strategy_of_Electrospun_Scaffolds_Enables_Spatially_Selective_Presentation_of_Biological_Cues) 
 
-Veldhuijzen, G., Klaassen, N.J.M., van Wezel, R.J.A., Drenth, J.P.H., and van Esch, A.A. (2020). Virtual reality distraction for patients to relieve pain and discomfort during colonoscopy. Endoscopy International Open 8 (7), e959.
+- Veldhuijzen, G., Klaassen, N., Van Wezel, R., Drenth, J., & Van Esch, A. (2020). Virtual reality distraction for patients to relieve pain and discomfort during colonoscopy. Endoscopy International Open, 08(07), E959-E966. doi: 10.1055/a-1178-9289 [link](https://www.researchgate.net/publication/342578020_Virtual_reality_distraction_for_patients_to_relieve_pain_and_discomfort_during_colonoscopy)
 
 - Mol, A., Meskers, C., Niehof, S., Maier, A., & van Wezel, R. (2020). Pulse transit time as a proxy for vasoconstriction in younger and older adults. Experimental Gerontology, 135, 110938. doi: 10.1016/j.exger.2020.110938 [link](https://www.researchgate.net/publication/340406213_Pulse_transit_time_as_a_proxy_for_vasoconstriction_in_younger_and_older_adults) 
 
