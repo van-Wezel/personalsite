@@ -12,14 +12,11 @@ You can find a list with all publications [here](https://van-wezel.github.io/per
 
 ### key publications
 
-1. Arani, E., van Ee, R. and van Wezel, R.J.A. (2018). Changes in low-level neural properties underlie age-dependent visual decision making. Scientific Reports, 8, 10789. PDF
-2. Zhao, Y., Nonnekes, J., Storcken, E.J.M., Janssen, S., van Wegen, E.E.H., Bloem, B.R., Dorresteijn, L.C.A., van Vugt, J.P.P., Heida, T., van Wezel, R.J.A. (2016) Feasibility of external rythmic cueing with the Google Glass for improving gait in people with Parkinson’s Disease. J. Neurology, 263, 6, 1156-1165. [link]
-3. Schwab, B.C., Heida, T.H., Zhao, Y., van Gils, S.A. and van Wezel, R.J.A. (2014). Pallidal gap junctions - triggers of synchrony in Parkinson’s Disease? Movement Disorders, 29, 12, 1486-1494. [link]
-4. Krekelberg, B. and van Wezel, R.J.A.. (2013). Neural mechanisms of speed perception: transparent motion. Journal of Neurophysiology, 110 (9), 2007-2018. [link]
-5. Klink, P.C., Brascamp, J.W., Blake, R., and van Wezel, R.J.A. (2010). Experience-driven plasticity in binocular vision. Current Biology, 20, 1464-1469 [link][pdf] 
-6. Raemaekers, M., Lankheet, M.J.M., Moorman, S., Kourtzi, Z., and van Wezel, R.J.A. (2009). Directional anisotropy of motion responses in retinotopic cortex. Human Brain Mapping, 30, 3970-3980. [pdf]
-7. Kourtzi, Z., Krekelberg, B., and van Wezel, R.J.A. (2008). Linking form and motion in the primate brain. Trends in Cognitive Sciences, 12, 6, 230-236. [link] [pdf]
-8. Noest, A.J., van Ee, R., Nijs, M.M. and van Wezel, R.J.A. (2007). Percept choice sequences driven by interrupted ambiguous stimuli: A low level neural model. Journal of Vision, 7(8):10, 1-14 , DEMO [link] [pdf]
-9. Krekelberg, B., Boynton, G.M. and van Wezel, R.J.A. (2006). Adaptation: from single cells to BOLD signals. Trends in Neurosciences, 29, 250-256. [link] [pdf]
-10. van Wezel, R.J.A., and Britten, K.H. (2002). Motion adaptation in area MT. Journal of Neurophysiology, 88: 3469-3476. [link][pdf]
-11. Britten, K.H. & van Wezel, R.J.A. (1998). Electrical microstimulation of extrastriate area MST biases heading perception. Nature Neuroscience, 1, 59-63. [link][pdf]
+
+1. Kogo, N., Kern, F., Nowotny, T., van Ee, R., van Wezel, R., & Aihara, T. (2020). Dynamics of a Mutual Inhibition Circuit between Pyramidal Neurons Compared to Human Perceptual Competition. The Journal Of Neuroscience, 41(6), 1251-1264. doi: 10.1523/jneurosci.2503-20.2020 [link](https://www.biorxiv.org/content/10.1101/2020.05.26.113324v2) 
+2. Klink, P., Brascamp, J., Blake, R., & van Wezel, R. (2010). Experience-Driven Plasticity in Binocular Vision. Current Biology, 20(16), 1464-1469. doi: 10.1016/j.cub.2010.06.057 [link](http://www.cell.com/current-biology/abstract/S0960-9822%2810%2900805-5) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2010a_Klink.pdf)  
+3. Kourtzi, Z., Krekelberg, B., & van Wezel, R. (2008). Linking form and motion in the primate brain. Trends In Cognitive Sciences, 12(6), 230-236. doi: 10.1016/j.tics.2008.02.013 [link](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(08)00111-3) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2008_Kourtzi.pdf)
+4. Krekelberg, B., Boynton, G., & van Wezel, R. (2006). Adaptation: from single cells to BOLD signals. Trends In Neurosciences, 29(5), 250-256. doi: 10.1016/j.tins.2006.02.008 [link](https://europepmc.org/article/med/16529826) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/2006b_Krekelberg.pdf)
+5. Britten, K., & van Wezel, R. (1998). Electrical microstimulation of cortical area MST biases heading perception in monkeys. Nature Neuroscience, 1(1), 59-63. doi: 10.1038/259 [link](https://www.nature.com/articles/nn0598_59) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1998%20Britten_van_Wezel.pdf)
+  - Commentary on our paper by A. Grunewald (1998). Stimulating thoughts about heading perception. Trends in Cognitive Sciences, 2, 7, 239-239. [link](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(98)80019-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1364661398800193%3Fshowall%3Dtrue) & [pdf](https://www.mbfys.ru.nl/staff/vanwezel/publications/1998_Grunewald.pdf)
+
