@@ -9,11 +9,8 @@
 
 Richard van Wezel is a lecturer at both Radboud University and the University of Twente. He lectures and coordinates courses in the Biology Bachelors programmes and Neurobiology Masters programmes. Below you can find the courses currently in the curriculum.
 
-#### At Radboud university in Nijmegen:
 
-Some information possible, some introduction to the lecturing parts.
-
-### Bachelor courses
+### Bachelor courses Radboud university
 These courses are part of the curriculum for the Bachelor Biology and Medical Biology. They are aimed at students who are interested in Neurobiology and those who wish to enroll in the Master's programme of Neurobiology.
 
 
@@ -24,7 +21,7 @@ These courses are part of the curriculum for the Bachelor Biology and Medical Bi
 | Neurobiophysics | 3rd | 6 |
 
 
-### Master courses
+### Master courses Radboud university
 These courses are part of the Master's programme of Neurobiology.
 
 
@@ -35,11 +32,8 @@ These courses are part of the Master's programme of Neurobiology.
 | Current advances in neuroscience technology | 3 |
 
 
-#### At university of Twente in Enschede:
 
-Again some information possible, to distinguish between the two universities.
-
-### Bachelor courses
+### Bachelor courses TU Twente
 
 | Course name | Year | EC |
 | --- | ---| --- |
