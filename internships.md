@@ -24,7 +24,9 @@ The most frequent cause of inherited blindness in children is leber congenital a
 
 - **Freezing-of-Gait in Parkingson's** *by Laurens Kirkels* 
 
+<img align='right' src="https://van-wezel.github.io/personalsite/photos/Laurens%20foto-set.png" width="400" height="280" />
 My current research focuses on detection and eventual prediction of Freezing-of-Gait in people living with Parkinson’s Disease. Making use of wearable sensors, such as insoles, ankle sensors and smartphone, we investigate freezing episodes in an at-home situation ([eHealth House, TU Twente](https://www.utwente.nl/nl/techmed/faciliteiten/htwb-labs/ehealth-house/)). Additionally, I work on analysis of two-photon calcium imaging datasets from visual experiments in awake mice. 
+
 
 
 
