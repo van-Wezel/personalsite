@@ -15,7 +15,7 @@ Also have a look at previous [publications](https://van-wezel.github.io/personal
 
 - **Visual prosthetic implants and image preprocessing** *by Jaap de Ruyter van Steveninck* 
 
-<img align='right' src="https://van-wezel.github.io/personalsite/photos/Jaap.png"  width="350" height="500" />
+<img align='right' src="https://van-wezel.github.io/personalsite/photos/Jaap.png"  width="300" height="500" />
 Visual prostheses may restore some visual perception in blind people by electrically stimulating neurons in V1 with up to thousands of electrodes. Because this (bionic) vision is of relatively low quality (e.g. low resolution) compared to normal vision, it is important to pre-process the visual input from the environment, to only convey task-relevant information and filter out distractions. We evaluate and develop state-of-the-art deep learning solutions to improve performance in daily living tasks such as wayfinding. Behavioral experiments with a virtual reality simulation of prosthetic vision in healthy individuals may provide useful insights on future directions for pre-processing strategies in prosthetic vision. And to test simplified cases, we can even replace human subjects with virtual reality agents, similar to AI’s that are used in games. Due to the combination of computational aspects, the work with human subjects and the practical / technical questions, we can always discuss a project that is tailored to your background and interests.
 
 
