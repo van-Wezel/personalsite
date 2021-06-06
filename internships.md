@@ -15,7 +15,11 @@ Also have a look at previous [publications](https://van-wezel.github.io/personal
 
 - **Visual prosthetic implants and image preprocessing** *by Jaap de Ruyter van Steveninck* 
 
+<img align='right' src="https://van-wezel.github.io/personalsite/photos/Jaap.png"  width="350" height="500" />
 Visual prostheses may restore some visual perception in blind people by electrically stimulating neurons in V1 with up to thousands of electrodes. Because this (bionic) vision is of relatively low quality (e.g. low resolution) compared to normal vision, it is important to pre-process the visual input from the environment, to only convey task-relevant information and filter out distractions. We evaluate and develop state-of-the-art deep learning solutions to improve performance in daily living tasks such as wayfinding. Behavioral experiments with a virtual reality simulation of prosthetic vision in healthy individuals may provide useful insights on future directions for pre-processing strategies in prosthetic vision. And to test simplified cases, we can even replace human subjects with virtual reality agents, similar to AI’s that are used in games. Due to the combination of computational aspects, the work with human subjects and the practical / technical questions, we can always discuss a project that is tailored to your background and interests.
+
+
+
 
 
 - **Restoring light sensitivity in the retina** *by Bas van Gorp & Tim Schröder* 
@@ -24,9 +28,9 @@ The most frequent cause of inherited blindness in children is leber congenital a
 
 - **Freezing-of-Gait in Parkingson's** *by Laurens Kirkels* 
 
-<img align='right' src="https://van-wezel.github.io/personalsite/photos/Laurens%20foto-set.png" width="400" height="280" />
 My current research focuses on detection and eventual prediction of Freezing-of-Gait in people living with Parkinson’s Disease. Making use of wearable sensors, such as insoles, ankle sensors and smartphone, we investigate freezing episodes in an at-home situation ([eHealth House, TU Twente](https://www.utwente.nl/nl/techmed/faciliteiten/htwb-labs/ehealth-house/)). Additionally, I work on analysis of two-photon calcium imaging datasets from visual experiments in awake mice. 
 
+<img src="https://van-wezel.github.io/personalsite/photos/Laurens%20foto-set.png" width="450" height="280" />
 
 
 
