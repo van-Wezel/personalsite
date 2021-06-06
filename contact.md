@@ -10,9 +10,9 @@
 
 You can contact Richard van Wezel via Radboud university in Nijmegen, or via the University of Twente in Enschede. Please choose the appropriate location for your purposes.
 
----
-Contact information Nijmegen
----
+
+
+### Contact information Nijmegen  
 
 **Professor in Visual Neuroscience**  
 Biophysics, Faculty of Science  
@@ -22,9 +22,9 @@ Phone:    +31 (0)24 3614247 (secr. 3652428)
 Fax:      +31 (0)24 3653450  
 Email:    r.vanwezel@donders.ru.nl  
 
---- 
-Contact information Wageningen
----
+
+### Contact information Wageningen
+
 
 
 **Professor in Neurophysiology**  
