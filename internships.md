@@ -33,4 +33,8 @@ My current research focuses on detection and eventual prediction of Freezing-of-
 <img src="https://van-wezel.github.io/personalsite/photos/Laurens%20foto-set.png" width="450" height="280" />
 
 
+- **Title** *by name*
+
+Description of research
+Picture either under or to the right
 
