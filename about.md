@@ -5,9 +5,9 @@
 -------------------------------------------
 
 ## About Richard van Wezel
-test2
+test3
 
-<img style='float' align='left' src="https://van-wezel.github.io/personalsite/Sunset.jpg" width="200" height="280" class="padding: 10px;" />
+<img style='float' align='left' src="https://van-wezel.github.io/personalsite/Sunset.jpg" width="200" height="280" style="padding-right: 20px;" />
 
 Some nice information for a personal touch.
 
