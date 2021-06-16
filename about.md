@@ -6,12 +6,17 @@
 
 ## About Richard van Wezel
 
+<img src="https://van-wezel.github.io/personalsite/Sunset.jpg"
+     alt="Markdown Monster icon"
+     style='float: left; margin-right: 10px;' width="200" height="280" />
 
-<img style='float' align='left' src="https://van-wezel.github.io/personalsite/Sunset.jpg" width="200" height="280" />
 
 
+
+<img style='float' align='left' src="https://van-wezel.github.io/personalsite/Sunset.jpg" width="200" height="280" class="padding" />
 
 Some nice information for a personal touch.
 
 For example short introduction from study programme at which university, to types of research and what is now important in research and lecturing. Makes the site feel nice for students and colleages who visit.
+
 
