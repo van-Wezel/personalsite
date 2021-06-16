@@ -6,12 +6,6 @@
 
 ## About Richard van Wezel
 
-<img src="https://van-wezel.github.io/personalsite/Sunset.jpg"
-     alt="Markdown Monster icon"
-     style='float: left; margin-right: 10px;' width="200" height="280" />
-
-
-
 
 <img style='float' align='left' src="https://van-wezel.github.io/personalsite/Sunset.jpg" width="200" height="280" class="padding" />
 
