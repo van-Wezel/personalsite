@@ -42,18 +42,18 @@ In this internship, you will gain experience in:
     - fMRI imaging  
     - Advanced (fMRI) data analysis  
 
-<img src="https://van-wezel.github.io/personalsite/photos/Laurens%20foto-set.png" width="450" height="280" />
+<img src="https://van-wezel.github.io/personalsite/photos/Loes.jpg" width="450" height="280" />
 
 - **Understanding brain mechanisms in Parkinson’s disease using functional near-infrared spectroscopy (fNIRS)** *by Helena Cockx*
 
 Parkinson’s disease is a complex brain disorder, typically affecting automatic movements like walking. Understanding the underlying brain mechanisms of this movement disorder is key to develop more advanced treatments. Unfortunately, it is quite hard to investigate gait problems in fMRI scanners in which subjects need to lay still. This research makes therefor use of multichannel functional near-infrared spectroscopy (fNIRS), a relatively new mobile brain imaging device making use of infrared light to measure brain oxygenation in different cortical areas simultaneously.
 During this internship, you will be able to assist and interact with patients with Parkinson’s disease during an fNIRS experiment where we investigate the cortical processes during “freezing of gait”, a sudden, relatively brief episode of inability to produce effective forward stepping, described by patients ‘as if the feet are glued to the floor’. Alongside you will be carrying out your own fNIRS project with healthy participants, investigating the cortical processes of automatic versus non-automatic movements. 
 Relevant literature  
--	Nutt, J. G., et al. (2011). "Freezing of gait: moving forward on a mysterious clinical phenomenon." The Lancet Neurology 10(8): 734-744.  
--	Wu, Tao, Mark Hallett, and Piu Chan. "Motor automaticity in Parkinson's disease." Neurobiology of disease 82 (2015): 226-234.  
--	Scholkmann, F., et al. (2014). "A review on continuous wave functional near-infrared spectroscopy and imaging instrumentation and methodology." Neuroimage 85 Pt 1: 6-27.  
+- Nutt, J. G., et al. (2011). "Freezing of gait: moving forward on a mysterious clinical phenomenon." The Lancet Neurology 10(8): 734-744.  
+- Wu, Tao, Mark Hallett, and Piu Chan. "Motor automaticity in Parkinson's disease." Neurobiology of disease 82 (2015): 226-234.  
+- Scholkmann, F., et al. (2014). "A review on continuous wave functional near-infrared spectroscopy and imaging instrumentation and methodology." Neuroimage 85 Pt 1: 6-27.  
 
-<img src="https://van-wezel.github.io/personalsite/photos/Laurens%20foto-set.png" width="450" height="280" />
+<img src="https://van-wezel.github.io/personalsite/photos/Helena.jpg" width="450" height="280" />
 
 - **Title** *by name*
 
