@@ -6,6 +6,7 @@
 
 # Publications of Richard Van Wezel
 
+- Govaerts, W., Kuznetsov, Y.A., Meijer, H.G.E., Neirynck, N., van Wezel, R.J.A. (2021). Bistability and stabilization of human visual perception under ambiguous stimulation. Nonlinear Dynamics, Psychology and Life Sciences, 25, 297-307.  
 
 - Kogo, N., Kern, F., Nowotny, T., van Ee, R., van Wezel, R., & Aihara, T. (2020). Dynamics of a Mutual Inhibition Circuit between Pyramidal Neurons Compared to Human Perceptual Competition. The Journal Of Neuroscience, 41(6), 1251-1264. doi: 10.1523/jneurosci.2503-20.2020 [link](https://www.biorxiv.org/content/10.1101/2020.05.26.113324v2) 
 
@@ -14,8 +15,6 @@
 - Mol, A., Slangen, L., van Wezel, R., Maier, A., & Meskers, C. (2020). Orthostatic blood pressure recovery associates with physical performance, frailty and number of falls in geriatric outpatients. Journal Of Hypertension, 39(1), 101-106. doi: 10.1097/hjh.0000000000002617 [link](https://www.researchgate.net/publication/343552008_Orthostatic_blood_pressure_recovery_associates_with_physical_performance_frailty_and_number_of_falls_in_geriatric_outpatients) 
 
 - Janssen, S. Heijs, J.J.A., Bittner, M., Droog, E., Bloem, B.R., van Wezel, R.J.A., Heida, T. (2021). Visual cues added to a virtual environment paradigm do not improve motor arrests in Parkinson’s disease. Journal of Neural Engineering. In Press. 
-
-- Govaerts, W., Kuznetsov, Y.A., Meijer, H.G.E., Neirynck, N., van Wezel, R.J.A. (2020). Bistability and stabilization of human visual perception under ambiguous stimulation. Nonlinear Dynamics, Psychology and Life Sciences, In Press.
 
 - Genzel, L. et al. (2020). How the COVIC-19 pandemic highlights the necessity of animal research. Current Biology, 30 (18), R1014-1018. [link](https://www.sciencedirect.com/science/article/abs/pii/S0960982220311842) 
 
