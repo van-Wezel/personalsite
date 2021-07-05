@@ -30,8 +30,8 @@ Juan Delgado Tefan, PHD
 [Ahmed H. Gardoh](https://www.researchgate.net/profile/Ahmed-Gardoh)
 [Andre Noest](https://nl.linkedin.com/in/andre-j-noest-a2776141)  
 Anna Oleksiak  
-[Ana Silva de Lima](https://nl.linkedin.com/in/ana-ligia-silva-de-lima-73138988)
-[Arjen Mol](https://nl.linkedin.com/in/arjenmol)
+[Ana Silva de Lima](https://nl.linkedin.com/in/ana-ligia-silva-de-lima-73138988)  
+[Arjen Mol](https://nl.linkedin.com/in/arjenmol)  
 [Benjamin Bolte](https://www.researchgate.net/scientific-contributions/Benjamin-Bolte-2129731731)  
 [Bettina Schwab](http://bettina-schwab.net)  
 [Carmen Rietdijk](https://www.researchgate.net/scientific-contributions/Carmen-D-Rietdijk-2100865380)  
@@ -39,7 +39,7 @@ Anna Oleksiak
 [Erik Aarnoutse](https://nl.linkedin.com/in/erik-aarnoutse-689a9196)  
 [Hendrik Buimer Junior](https://nl.linkedin.com/in/hendrikbuimer/nl)  
 [Ineke van der Ham](https://nl.linkedin.com/in/ineke-van-der-ham-4a1b375)  
-Jaak Beintema  
+Jaap Beintema  
 [Jaboc Duijnhouwer](https://www.linkedin.com/in/jacob-d)  
 [János Perge](https://www.linkedin.com/in/jános-a-perge-ph-d-90b0207)  
 [Jeannette Lorteije](https://nl.linkedin.com/in/jeannettelorteije)  
